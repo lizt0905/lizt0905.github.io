@@ -1,0 +1,190 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://lizt0905.github.io" resolutions="1x" timestamp="1579174771726">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-__.css" crc="492322907" ref="3d-animation:index:about-me:painting:2d-animation"/>
+    <file name="3d-animation.css" crc="3798668185" ref="3d-animation"/>
+    <file name="index.css" crc="4005318182" ref="index"/>
+    <file name="about-me.css" crc="410071795" ref="about-me"/>
+    <file name="painting.css" crc="102271752" ref="painting"/>
+    <file name="2d-animation.css" crc="3925890396" ref="2d-animation"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="museutils.js" crc="4232573551" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="require.js" crc="4234670167" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="webpro.js" crc="3770351119" ref="2d-animation:3d-animation:painting"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="2d-animation:3d-animation:painting"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="2d-animation:3d-animation:painting"/>
+    <file name="touchswipe.js" crc="3912873526" ref="2d-animation:3d-animation:painting"/>
+  </folder>
+  <folder name="images">
+    <file name="u196-6.png" crc="312112481" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="u201-4.png" crc="4139645293" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="u208-4.png" crc="4169385947" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="情境圖fin調色縮圖-crop-u3036.jpg" crc="350757304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u211-4.png" crc="202513326" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="u214-4.png" crc="160272898" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="act14_10417-crop-u3050.png" crc="235298523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4546-4.png" crc="4064679755" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="u4552-4.png" crc="4177364604" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="情境圖fin調色縮圖-crop-u3043.jpg" crc="3761789857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4558-4.png" crc="160442941" ref="index:2d-animation:3d-animation:painting:about-me"/>
+    <file name="act0708_2_10063-crop-u3058.png" crc="4019646965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="情境圖fin調色縮圖-crop-u1178.jpg" crc="4264214917" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="u1188-4.png" crc="307399159" ref="2d-animation"/>
+    <file name="6.jpg" crc="239394714" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="2d-animation:3d-animation:painting"/>
+    <file name="2402.jpg" crc="4249939832" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="28.jpg" crc="527398322" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="429.jpg" crc="107572318" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="51.jpg" crc="3767119335" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="2d-animation:3d-animation:painting"/>
+    <file name="626.jpg" crc="173701333" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="6297.jpg" crc="3934848462" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="6898.jpg" crc="139080092" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="77994.jpg" crc="73297217" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="854.jpg" crc="4015537847" seo="true" ref="2d-animation">
+      <caption webpage="2d-animation" alt=""/>
+    </file>
+    <file name="posternew.jpg" crc="3995122599" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="u1718-4.png" crc="168368022" ref="3d-animation"/>
+    <file name="act01_10139.jpg" crc="104956450" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act03_10041.jpg" crc="418520482" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act05_10064.jpg" crc="3947966092" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act06_10050.jpg" crc="4217689873" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act0708_10029.jpg" crc="217831490" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act0708_2_10014.jpg" crc="265756355" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act0708_2_10063.png" crc="318355757" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act11_2_10084.jpg" crc="366164640" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act11_2_10175.jpg" crc="4209728788" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act11_3_10205.jpg" crc="4254804124" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act11_3_10260.jpg" crc="224865318" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act14_10240.jpg" crc="4265963504" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act14_10417.png" crc="369288254" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="act15_2_10186.jpg" crc="4187209672" seo="true" ref="3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+    </file>
+    <file name="a1.jpg" crc="533595815" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="a2.jpg" crc="260490092" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="a3.png" crc="525078595" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="b1.jpg" crc="4044587838" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="b2.jpg" crc="4084613403" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="b3.jpg" crc="222189119" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="c1.jpg" crc="4002788120" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="c2-crop-u3585.jpg" crc="3878342323" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="c3.jpg" crc="205959152" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="d1-crop-u3652.jpg" crc="453077480" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="d2.jpg" crc="226537117" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="d3.jpg" crc="6839182" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="g1.jpg" crc="4142104386" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="g2.jpg" crc="159252845" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="g3-crop-u4009.jpg" crc="3768603572" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="f1.jpg" crc="3807443632" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="f2-crop-u4477.jpg" crc="212748334" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="f3-crop-u4503.jpg" crc="3983237869" seo="true" ref="painting">
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="dsc09929bw-crop-u4532.jpg" crc="471952545" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u4542-16.png" crc="3904010886" ref="about-me"/>
+  </folder>
+  <file name="index.html" crc="4097283116" seo="true" mt="1579172596331" redirect="true"/>
+  <file name="2d-animation.html" crc="4005030922" seo="true" mt="1579172596331" redirect="true"/>
+  <file name="3d-animation.html" crc="430938629" seo="true" mt="1579172596331" redirect="true"/>
+  <file name="painting.html" crc="3865790092" seo="true" mt="1579172596331" redirect="true"/>
+  <file name="about-me.html" crc="526064466" seo="true" mt="1579172596331" redirect="true"/>
+</manifest>
